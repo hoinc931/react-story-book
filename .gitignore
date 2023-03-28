@@ -25,3 +25,6 @@ yarn-error.log*
 package-lock.json
 npm-shrinkwrap.json
 yarn.lock
+package-lock.json*
+yarn.lock*
+
